@@ -26,6 +26,12 @@
             "type": "dart",
             "request": "launch",
             "program": "Patterns\\Structural\\Adapter\\main.dart"
+        },
+        {
+            "name": "MainState",
+            "type": "dart",
+            "request": "launch",
+            "program": "Patterns\\Comportation\\State\\mainState.dart"
         }
     ]
 }
