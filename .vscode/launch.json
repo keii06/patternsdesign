@@ -3,7 +3,7 @@
     // Mantenga el puntero para ver las descripciones de los existentes atributos.
     // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
-    "configurations": [  
+    "configurations": [
         {
             "name": "Strategy",
             "type": "dart",
@@ -15,5 +15,11 @@
             "request": "launch",
             "type": "dart"
         },
+        {
+            "name": "MainBuilder",
+            "type": "dart",
+            "request": "launch",
+            "program": "Patterns/Creation/Builder/MainBuilder.dart"
+        }
     ]
 }
