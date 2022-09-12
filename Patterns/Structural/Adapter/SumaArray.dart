@@ -2,7 +2,6 @@
 
 class SumaArray {
   suma(List<int> datossuma) {
-    int n = 0;
     int r = 0;
 
     for (var i = 0; i < datossuma.length; i++) {

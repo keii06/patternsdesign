@@ -1,5 +1,3 @@
-import 'stateController.dart';
-
 abstract class EstadoSemaforo {
   mostrar() {}
 }
