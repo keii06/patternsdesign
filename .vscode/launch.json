@@ -44,6 +44,12 @@
             "type": "dart",
             "request": "launch",
             "program": "Patterns\\Creation\\AbstractFactory\\mainAbsFac.dart"
+        },
+        {
+            "name": "MainFactoryMethod",
+            "type": "dart",
+            "request": "launch",
+            "program": "Patterns\\Creation\\FactoryMethod\\main.dart"
         }
     ]
 }
