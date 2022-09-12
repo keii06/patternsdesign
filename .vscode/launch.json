@@ -19,7 +19,7 @@
             "name": "MainStrategy",
             "type": "dart",
             "request": "launch",
-            "program": "Patterns\\Comportation\\Strategy\\main.dart"
+            "program": "Patterns\\Behaviour\\Strategy\\main.dart"
         },
         {
             "name": "MainAdapter",
@@ -31,7 +31,13 @@
             "name": "MainState",
             "type": "dart",
             "request": "launch",
-            "program": "Patterns\\Comportation\\State\\mainState.dart"
+            "program": "Patterns\\Behaviour\\State\\mainState.dart"
+        },
+        {
+            "name": "MainIterator",
+            "type": "dart",
+            "request": "launch",
+            "program": "Patterns\\Behaviour\\Iterator\\mainIterator.dart"
         }
     ]
 }
