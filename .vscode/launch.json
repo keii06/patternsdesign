@@ -50,6 +50,24 @@
             "type": "dart",
             "request": "launch",
             "program": "Patterns\\Creation\\FactoryMethod\\main.dart"
+        },
+        {
+            "name": "SingletonFactoryConstructor",
+            "type": "dart",
+            "request": "launch",
+            "program": "Patterns\\Creation\\Singleton\\FactoryConstructor\\main.dart"
+        },
+        {
+            "name": "SingletonStaticFieldWithGetter",
+            "type": "dart",
+            "request": "launch",
+            "program": "Patterns\\Creation\\Singleton\\StaticFieldWithGetter\\main.dart"
+        },
+        {
+            "name": "SingletonStaticField",
+            "type": "dart",
+            "request": "launch",
+            "program": "Patterns\\Creation\\Singleton\\StaticField\\main.dart"
         }
     ]
 }
