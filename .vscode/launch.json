@@ -68,6 +68,18 @@
             "type": "dart",
             "request": "launch",
             "program": "Patterns\\Creation\\Singleton\\StaticField\\main.dart"
+        },
+        {
+            "name": "MainPrototype",
+            "type": "dart",
+            "request": "launch",
+            "program": "Patterns\\Creation\\Prototype\\main.dart"
+        },
+        {
+            "name": "MainProxy",
+            "type": "dart",
+            "request": "launch",
+            "program": "Patterns\\Structural\\Proxy\\main.dart"
         }
     ]
 }
