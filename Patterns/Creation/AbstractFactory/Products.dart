@@ -34,7 +34,7 @@ class ConcreteProductB1 implements IAbstractProductB {
   @override
   anotherUsefulFunctionB(IAbstractProductA collaborator) {
     var result = collaborator.usefulFunctionA();
-    return "The result of the B1 collaborating with the $result";
+    return "The result of the B1 collaborating with the ($result)";
   }
 }
 
@@ -47,7 +47,7 @@ class ConcreteProductB2 implements IAbstractProductB {
   @override
   anotherUsefulFunctionB(IAbstractProductA collaborator) {
     var result = collaborator.usefulFunctionA();
-    return "The result of the B2 collaborating with the $result";
+    return "The result of the B2 collaborating with the ($result)";
   }
 }
 
