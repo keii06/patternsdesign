@@ -80,6 +80,12 @@
             "type": "dart",
             "request": "launch",
             "program": "Patterns\\Structural\\Proxy\\main.dart"
+        },
+        {
+            "name": "MainFlyweight",
+            "type": "dart",
+            "request": "launch",
+            "program": "Patterns\\Structural\\Flyweight\\main.dart"
         }
     ]
 }
