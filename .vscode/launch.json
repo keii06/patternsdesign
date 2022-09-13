@@ -92,6 +92,12 @@
             "type": "dart",
             "request": "launch",
             "program": "Patterns\\Structural\\Facade\\main.dart"
+        },
+        {
+            "name": "MainDecorator)",
+            "type": "dart",
+            "request": "launch",
+            "program": "Patterns\\Structural\\Decorator\\main.dart"
         }
     ]
 }
