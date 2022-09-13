@@ -105,5 +105,11 @@
             "request": "launch",
             "program": "Patterns\\Structural\\Composite\\main.dart"
         },
+        {
+            "name": "MainBridge",
+            "type": "dart",
+            "request": "launch",
+            "program": "Patterns\\Structural\\Bridge\\main.dart"
+        }
     ]
 }
