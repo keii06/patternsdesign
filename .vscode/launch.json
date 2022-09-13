@@ -86,6 +86,12 @@
             "type": "dart",
             "request": "launch",
             "program": "Patterns\\Structural\\Flyweight\\main.dart"
+        },
+        {
+            "name": "MainFacade",
+            "type": "dart",
+            "request": "launch",
+            "program": "Patterns\\Structural\\Facade\\main.dart"
         }
     ]
 }
