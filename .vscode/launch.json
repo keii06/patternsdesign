@@ -116,6 +116,12 @@
             "type": "dart",
             "request": "launch",
             "program": "Patterns\\Behaviour\\TemplateMethod\\main.dart"
+        },
+        {
+            "name": "MainObserver",
+            "type": "dart",
+            "request": "launch",
+            "program": "Patterns\\Behaviour\\Observer\\main.dart"
         }
     ]
 }
