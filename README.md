@@ -1,2 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+
+Esta es una aplicación en donde se aplican diferentes patrones de diseño utilizando el lenguaje dart
